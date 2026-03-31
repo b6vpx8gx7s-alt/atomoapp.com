@@ -1,0 +1,10 @@
+# ⚠️ NUNCA subir estos archivos a GitHub
+.streamlit/secrets.toml
+*.db
+*.sqlite
+__pycache__/
+*.pyc
+.env
+.DS_Store
+/tmp/
+logo_nuevo.png
