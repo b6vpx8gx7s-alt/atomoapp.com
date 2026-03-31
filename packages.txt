@@ -1,6 +1,0 @@
-cmake
-libopenblas-dev
-liblapack-dev
-libx11-dev
-build-essential
-libdlib-dev
