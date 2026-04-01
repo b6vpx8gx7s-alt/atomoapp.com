@@ -1,0 +1,27 @@
+{
+  "name": "Átomo.co — Cuentas de Cobro",
+  "short_name": "Átomo.co",
+  "description": "Genera cuentas de cobro profesionales con retenciones. El núcleo de tus cuentas.",
+  "start_url": "https://atomo-app-mzfqjvym9gu3wxb66dqueb.streamlit.app/",
+  "display": "standalone",
+  "background_color": "#0B1120",
+  "theme_color": "#0EA5E9",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["finance", "business", "productivity"]
+}
